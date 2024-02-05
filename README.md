@@ -1,6 +1,7 @@
 # 💫 About Me:
-Interested in Software Engineering, Machine Learning, Data Science, Software Developer.<br>also interested in basketball and fitness
+Immersed in crafting web apps, sculpting ML models with a focus on computer vision, and wielding large datasets to clean, visualize, and predict for real-world applications. My code is a symphony of innovation in the world of zeros and ones. 💻✨
 
+But wait, the geekiness doesn't hit pause there. When not lost in the realms of coding, you'll catch me on the basketball court, meticulously calculating the perfect arc for that three-pointer. And of course, maintaining the body is as crucial as refining the code—because a healthy programmer is undeniably a happy programmer. Let's craft algorithms and nail slam dunks with equal enthusiasm! 🚀🏀💻
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitij_ijari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijijari) 
