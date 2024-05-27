@@ -20,7 +20,19 @@ But wait, the geekiness doesn't hit pause there. When not lost in the realms of 
 **G+F**: Led a team of five to develop a scalable serverless financial web app with React.js and Google Firestore, automating processes and reducing processing time from 4 hours to 4 seconds, enhancing UI/UX. [G+F](https://npg-pf-167f7.firebaseapp.com/login?redirect=/dashboard/upload)
 
 
-[Amazon Clone Project](https://clone-f11e6.web.app/)
+### Amazon Clone Project
+This project is a full-stack web application that replicates the core functionalities of Amazon, providing a platform for users to browse products, add items to their cart, and proceed with checkout.
+
+** Technologies Used
+** Front-End: React.js and JavaScript
+** Back-End: Google Firebase for database, authentication, and hosting
+** Tools & Libraries: Redux for state management, React Router for navigation, and Firebase Firestore for real-time database
+** Features
+** User Authentication: Implemented using Firebase Authentication, allowing users to sign up, log in, and log out securely.
+** Product Listing: Dynamic product listings fetched from Firebase Firestore, displayed with detailed information and images.
+** Shopping Cart: Fully functional shopping cart where users can add, remove, and adjust quantities of products.
+** Checkout Process: Simulated checkout process where users can review their cart, enter payment details, and place orders.
+** Responsive Design: Ensured a seamless user experience across various devices with a responsive design.[Amazon Clone Project](https://clone-f11e6.web.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitij_ijari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijijari) 
