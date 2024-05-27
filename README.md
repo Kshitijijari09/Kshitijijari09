@@ -4,7 +4,18 @@ Immersed in crafting web apps, sculpting ML models with a focus on computer visi
 
 But wait, the geekiness doesn't hit pause there. When not lost in the realms of coding, you'll catch me on the basketball court, meticulously calculating the perfect arc for that three-pointer. And of course, maintaining the body is as crucial as refining the code—because a healthy programmer is undeniably a happy programmer. Let's craft algorithms and nail slam dunks with equal enthusiasm! 🚀🏀💻
 
-## Projects
+## Professional Experience
+
+###Dori Ai
+
+** Software Engineer
+
+•	**Backend Services Development**: Designed, developed, and deployed backend services with a focus on high availability, low latency, and scalability using AWS CloudWatch, reducing system downtime by 15% and enhancing overall production performance.
+•	**Code Quality Improvement**: Conducted bi-weekly peer reviews, decreasing post-release defects by 30% and improving code quality.
+•	**Test Automation**: Automated 80% of test scenarios using Selenium, reducing manual troubleshooting efforts and accelerating the testing phase by 30%.
+•	**Unit Testing & Verification**: Spearheaded verification and validation efforts using Postman, resulting in a 15% reduction in API bugs and response time, enhancing overall system efficiency.
+
+
 
 ### PacketFanatic LLC
 
@@ -23,16 +34,16 @@ But wait, the geekiness doesn't hit pause there. When not lost in the realms of 
 ### Amazon Clone Project
 This project is a full-stack web application that replicates the core functionalities of Amazon, providing a platform for users to browse products, add items to their cart, and proceed with checkout.
 
-** Technologies Used
-** Front-End: React.js and JavaScript
-** Back-End: Google Firebase for database, authentication, and hosting
-** Tools & Libraries: Redux for state management, React Router for navigation, and Firebase Firestore for real-time database
-** Features
-** User Authentication: Implemented using Firebase Authentication, allowing users to sign up, log in, and log out securely.
-** Product Listing: Dynamic product listings fetched from Firebase Firestore, displayed with detailed information and images.
-** Shopping Cart: Fully functional shopping cart where users can add, remove, and adjust quantities of products.
-** Checkout Process: Simulated checkout process where users can review their cart, enter payment details, and place orders.
-** Responsive Design: Ensured a seamless user experience across various devices with a responsive design.[Amazon Clone Project](https://clone-f11e6.web.app/)
+ **Technologies Used**
+ **Front-End**: React.js and JavaScript
+ **Back-End**: Google Firebase for database, authentication, and hosting
+ **Tools & Libraries**: Redux for state management, React Router for navigation, and Firebase Firestore for real-time database
+ **Features**
+- **User Authentication**: Implemented using Firebase Authentication, allowing users to sign up, log in, and log out securely.
+- **Product Listing**: Dynamic product listings fetched from Firebase Firestore, displayed with detailed information and images.
+- **Shopping Cart**: Fully functional shopping cart where users can add, remove, and adjust quantities of products.
+- **Checkout Process**: Simulated checkout process where users can review their cart, enter payment details, and place orders.
+- **Responsive Design**: Ensured a seamless user experience across various devices with a responsive design.[Amazon Clone Project](https://clone-f11e6.web.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitij_ijari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijijari) 
