@@ -10,10 +10,10 @@ But wait, the geekiness doesn't hit pause there. When not lost in the realms of 
 
 **Software Engineer**
 
-•	**Backend Services Development**: Designed, developed, and deployed backend services with a focus on high availability, low latency, and scalability using AWS CloudWatch, reducing system downtime by 15% and enhancing overall production performance.
-•	**Code Quality Improvement**: Conducted bi-weekly peer reviews, decreasing post-release defects by 30% and improving code quality.
-•	**Test Automation**: Automated 80% of test scenarios using Selenium, reducing manual troubleshooting efforts and accelerating the testing phase by 30%.
-•	**Unit Testing & Verification**: Spearheaded verification and validation efforts using Postman, resulting in a 15% reduction in API bugs and response time, enhancing overall system efficiency.
+-	**Backend Services Development**: Designed, developed, and deployed backend services with a focus on high availability, low latency, and scalability using AWS CloudWatch, reducing system downtime by 15% and enhancing overall production performance.
+-	**Code Quality Improvement**: Conducted bi-weekly peer reviews, decreasing post-release defects by 30% and improving code quality.
+-	**Test Automation**: Automated 80% of test scenarios using Selenium, reducing manual troubleshooting efforts and accelerating the testing phase by 30%.
+-	**Unit Testing & Verification**: Spearheaded verification and validation efforts using Postman, resulting in a 15% reduction in API bugs and response time, enhancing overall system efficiency.
 
 
 
