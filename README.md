@@ -8,7 +8,7 @@ But wait, the geekiness doesn't hit pause there. When not lost in the realms of 
 
 ###Dori Ai
 
-** Software Engineer
+**Software Engineer**
 
 •	**Backend Services Development**: Designed, developed, and deployed backend services with a focus on high availability, low latency, and scalability using AWS CloudWatch, reducing system downtime by 15% and enhancing overall production performance.
 •	**Code Quality Improvement**: Conducted bi-weekly peer reviews, decreasing post-release defects by 30% and improving code quality.
