@@ -3,9 +3,10 @@ Immersed in crafting web apps, sculpting ML models with a focus on computer visi
 
 But wait, the geekiness doesn't hit pause there. When not lost in the realms of coding, you'll catch me on the basketball court, meticulously calculating the perfect arc for that three-pointer. And of course, maintaining the body is as crucial as refining the code—because a healthy programmer is undeniably a happy programmer. Let's craft algorithms and nail slam dunks with equal enthusiasm! 🚀🏀💻
 
-# Amazon Clone Project: https://clone-f11e6.web.app/
+
 
 # Project for PacketFanatic LLC:
+
 ## Full Stack Software Developer - 
 *	Front-End Application Development: Led a team of five to develop a scalable serverless financial web app with React.js and Google Firestore, automating processes and reducing processing time from 4 hours to 4 seconds, enhancing UI/UX.
 *	Collaboration with Product and Design Teams: Collaborated with cross-functional teams to identify new product opportunities and member insights, driving continuous improvement in data infrastructure and business processes.
@@ -18,6 +19,7 @@ But wait, the geekiness doesn't hit pause there. When not lost in the realms of 
 ## G+F -  Led a team of five to develop a scalable serverless financial web app with React.js and Google Firestore, automating processes and reducing processing time from 4 hours to 4 seconds, enhancing UI/UX.
 ![G+F](https://npg-pf-167f7.firebaseapp.com/login?redirect=/dashboard/upload)
 
+#### Amazon Clone Project: https://clone-f11e6.web.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshitij_ijari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kshitijijari) 
