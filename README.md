@@ -5,9 +5,9 @@ But wait, the geekiness doesn't hit pause there. When not lost in the realms of 
 
 
 
-# Project for PacketFanatic LLC:
+## Project for PacketFanatic LLC:
 
-## Full Stack Software Developer - 
+### Full Stack Software Developer - 
 *	Front-End Application Development: Led a team of five to develop a scalable serverless financial web app with React.js and Google Firestore, automating processes and reducing processing time from 4 hours to 4 seconds, enhancing UI/UX.
 *	Collaboration with Product and Design Teams: Collaborated with cross-functional teams to identify new product opportunities and member insights, driving continuous improvement in data infrastructure and business processes.
 *	Code Quality & Deployment: Ensured code quality and stability through comprehensive code reviews, managed source control with Git, automated build processes, and executed robust testing and deployment strategies using AWS services.
