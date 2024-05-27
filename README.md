@@ -13,10 +13,10 @@ But wait, the geekiness doesn't hit pause there. When not lost in the realms of 
 *	Code Quality & Deployment: Ensured code quality and stability through comprehensive code reviews, managed source control with Git, automated build processes, and executed robust testing and deployment strategies using AWS services.
 *	Problem-Solving & Results Delivery: Architected and integrated an Alexa and AWS-serverless app for COVID-19 labor shortages, achieving 50% faster order processing and 30% lower operational costs.
 
-## Ordee - Architected and integrated an Alexa and AWS-serverless app for COVID-19 labor shortages, achieving 50% faster order processing and 30% lower operational costs.
+### Ordee - Architected and integrated an Alexa and AWS-serverless app for COVID-19 labor shortages, achieving 50% faster order processing and 30% lower operational costs.
 ![Ordee](https://ordee-1e683.web.app/) 
 
-## G+F -  Led a team of five to develop a scalable serverless financial web app with React.js and Google Firestore, automating processes and reducing processing time from 4 hours to 4 seconds, enhancing UI/UX.
+### G+F -  Led a team of five to develop a scalable serverless financial web app with React.js and Google Firestore, automating processes and reducing processing time from 4 hours to 4 seconds, enhancing UI/UX.
 ![G+F](https://npg-pf-167f7.firebaseapp.com/login?redirect=/dashboard/upload)
 
 #### Amazon Clone Project: https://clone-f11e6.web.app/
