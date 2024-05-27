@@ -6,7 +6,7 @@ But wait, the geekiness doesn't hit pause there. When not lost in the realms of 
 
 ## Professional Experience
 
-###Dori Ai
+### Dori Ai
 
 **Software Engineer**
 
