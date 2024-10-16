@@ -4,6 +4,12 @@ Immersed in crafting web apps, sculpting ML models with a focus on computer visi
 
 But wait, the geekiness doesn't hit pause there. When not lost in the realms of coding, you'll catch me on the basketball court, meticulously calculating the perfect arc for that three-pointer. And of course, maintaining the body is as crucial as refining the code—because a healthy programmer is undeniably a happy programmer. Let's craft algorithms and nail slam dunks with equal enthusiasm! 🚀🏀💻
 
+##Publications
+[Sustainable Pavement Management: Harnessing Advanced Machine Learning for Enhanced Road Maintenance ](https://www.mdpi.com/2076-3417/14/15/6640).
+[2D Image Reconstruction using Differentiable Plasticity](https://ieeexplore.ieee.org/abstract/document/9418086/)
+[Optimizing Recurrent Neural Network Using Neuromodulation](https://ieeexplore.ieee.org/abstract/document/9580032/)
+
+
 ## Professional Experience
 
 ### Dori Ai
